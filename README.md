@@ -85,3 +85,6 @@ System monitoring and management:
 - Hardware acceleration is used where possible
 - Network latency is minimized through co-location
 - System monitoring is critical for maintaining edge
+
+---
+*Architecture design inspired by ByteMonk's HFT system architecture video.*
